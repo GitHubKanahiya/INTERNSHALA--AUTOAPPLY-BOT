@@ -13,7 +13,7 @@ Internshala AutoApply Bot is an automated script designed to streamline the inte
 
 1. 📚 Clone the Repository
 
- git clone https://github.com/GitHubKanahiya/Internshala-AutoApply-Bot.git
+ git clone https: https://github.com/GitHubKanahiya/INTERNSHALA--AUTOAPPLY-BOT.git
  cd Internshala-AutoApply-Bot
 
 2. 🔧 Install Dependencies
@@ -60,6 +60,6 @@ This bot is intended for educational purposes only. Use responsibly, and ensure 
 
 If you found this project useful, give it a star (⭐) on GitHub and share it with fellow developers!
 
-👉 GitHub Repository  
+👉 GitHub Repository  https://github.com/GitHubKanahiya/INTERNSHALA--AUTOAPPLY-BOT.git
 
 
